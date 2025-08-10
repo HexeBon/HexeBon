@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HexeBon
-- 👀 I’m interested in QA automation, develop and penetration testing
-- 🌱 I’m currently learning Java and Kotlin.
+- 🌱 I'm learning Kotlin to become an Android developer
 - 💞️ I’m looking to collaborate on Kaspersky, Yandex or VK.
 - 📫 How to reach me: b.varyanitsa@vk.com
 
